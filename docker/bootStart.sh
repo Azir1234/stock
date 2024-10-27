@@ -4,7 +4,7 @@ echo =================================
 echo  镜像容器更新
 echo =================================
 echo 准备从Git仓库拉取最新代码
-cd /usr/local/stock_parent
+cd /usr/local/codes/stock
 echo 开始从Git仓库拉取最新代码
 git pull
 echo 代码拉取完成
